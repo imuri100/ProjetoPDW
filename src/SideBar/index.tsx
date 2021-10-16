@@ -1,6 +1,5 @@
 import { Container, Menu, MenuButton, Profile } from "./style";
 import  profileImage  from '../assets/avatar.png';
-import { useState } from "react";
 import { Link } from 'react-router-dom';
 
 

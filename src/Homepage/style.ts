@@ -71,10 +71,8 @@ export const Body = styled.div`
         margin-top: 2rem;
         font-weight: 400;
     }
-`; 
-
-export const TrabalhosTable = styled.div`
-    margin:auto;
+    table{
+        margin:auto;
     margin-top:2rem;
     display: grid;
     width: 800px;
@@ -82,11 +80,11 @@ export const TrabalhosTable = styled.div`
     height: 100%;
     padding: 1rem;
     gap: 1rem;
-`;
 
-export const Square = styled.div`
-    float:left;
+    }
+    img{
+        float:left;
     display: inline;
     height: 120px;
-    background: #C4C4C4;
-`;
+    }
+`; 

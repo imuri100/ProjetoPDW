@@ -1,6 +1,5 @@
 import { Container, Title } from "../style/global";
 import { Project } from "./style";
-import  logo1  from '../assets/logo1.jpg';
 import {NationalProjects, InternationalProjects} from './projetos';
 
 export function Projetos(){
