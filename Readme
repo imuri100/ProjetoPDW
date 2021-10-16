@@ -1,0 +1,7 @@
+# Instalar dependencias
+
+yarn
+
+#Inciar o projeto
+
+yarn start
