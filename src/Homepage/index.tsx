@@ -35,17 +35,17 @@ export function Homepage() {
             <tr>
               <th>
                 <a href="/projetos">
-                  <img src={proj1} width="250px" alt="Orders" />
+                  <img src={proj1} width="250px" alt="projeto1" />
                 </a>
               </th>
               <th>
                 <a href="/projetos">
-                  <img src={proj2} width="250px" alt="Orders" />
+                  <img src={proj2} width="250px" alt="projeto2" />
                 </a>
               </th>
               <th>
                 <a href="/projetos">
-                  <img src={proj3} width="250px" alt="Orders" />
+                  <img src={proj3} width="250px" alt="projeto3" />
                 </a>
               </th>
             </tr>
